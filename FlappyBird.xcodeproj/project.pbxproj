@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		951A8CB5248A4EAD00D59943 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951A8CB4248A4EAD00D59943 /* GameScene.swift */; };
+		9598EE8224AC6DD200C1963D /* itemSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9598EE8124AC6DD200C1963D /* itemSound.mp3 */; };
 		95FC8BCC2487A9C8007DCD4C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95FC8BCB2487A9C8007DCD4C /* AppDelegate.swift */; };
 		95FC8BCE2487A9C8007DCD4C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95FC8BCD2487A9C8007DCD4C /* SceneDelegate.swift */; };
 		95FC8BD02487A9C8007DCD4C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95FC8BCF2487A9C8007DCD4C /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		951A8CB4248A4EAD00D59943 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		9598EE8124AC6DD200C1963D /* itemSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = itemSound.mp3; sourceTree = "<group>"; };
 		95FC8BC82487A9C8007DCD4C /* FlappyBird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlappyBird.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95FC8BCB2487A9C8007DCD4C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		95FC8BCD2487A9C8007DCD4C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				95FC8BCD2487A9C8007DCD4C /* SceneDelegate.swift */,
 				95FC8BCF2487A9C8007DCD4C /* ViewController.swift */,
 				95FC8BD12487A9C8007DCD4C /* Main.storyboard */,
+				9598EE8124AC6DD200C1963D /* itemSound.mp3 */,
 				95FC8BD42487A9C9007DCD4C /* Assets.xcassets */,
 				951A8CB4248A4EAD00D59943 /* GameScene.swift */,
 				95FC8BD62487A9C9007DCD4C /* LaunchScreen.storyboard */,
@@ -131,6 +134,7 @@
 				95FC8BD82487A9C9007DCD4C /* LaunchScreen.storyboard in Resources */,
 				95FC8BD52487A9C9007DCD4C /* Assets.xcassets in Resources */,
 				95FC8BD32487A9C8007DCD4C /* Main.storyboard in Resources */,
+				9598EE8224AC6DD200C1963D /* itemSound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
